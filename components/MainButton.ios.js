@@ -12,6 +12,7 @@ const MainButton = props => {
                 </Text>
             </View>
         </TouchableOpacity>
+
     );
 }
 
